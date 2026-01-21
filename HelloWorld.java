@@ -17,5 +17,9 @@ public class HelloWorld {
 
     public void f2() {
     // Feature 2
-}
+    }
+
+    public void f3() {
+    // Feature 3
+    }
 }
