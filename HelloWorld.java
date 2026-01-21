@@ -22,4 +22,8 @@ public class HelloWorld {
     public void f3() {
     // Feature 3
     }
+
+    public void f4() {
+    // Feature 4
+    }
 }
