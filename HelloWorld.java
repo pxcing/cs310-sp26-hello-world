@@ -22,4 +22,11 @@ public class HelloWorld {
     public void f3() {
     // Feature 3
     }
+<<<<<<< HEAD
+=======
+
+    public void f4() {
+    // Feature 4
+    }
+>>>>>>> feature-f4
 }

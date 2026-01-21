@@ -17,4 +17,9 @@ public class Class1 {
     // Feature 3
         System.out.println("Fixing f3");
     }
+
+    public void f4() {
+    // Feature 4
+        System.out.println("Fixing f4");
+    }
 }
